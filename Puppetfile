@@ -1,7 +1,7 @@
 forge 'forge.puppetlabs.com'
 
 
-#Forge modules
+#Forge modules for production environment
 
 mod 'puppetlabs/stldib' 
 mod 'puppetlabs/concat' 
