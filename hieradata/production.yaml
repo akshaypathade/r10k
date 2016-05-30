@@ -1,5 +1,5 @@
 ---
-profiles::website::port: 9095
+profiles::website::port: 9096
 profiles::website::docroot: /var/www
 profiles::website::servername: localhost
 profiles::website::docroot_owner: root
