@@ -5,4 +5,4 @@ forge 'forge.puppetlabs.com'
 
 mod 'puppetlabs/stdlib', '4.1.0'
 mod 'puppetlabs/concat', '1.1.0'
-mod 'puppetlabs/nginx',  
+mod 'puppetlabs/nginx'  
