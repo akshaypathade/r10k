@@ -1,7 +1,8 @@
 forge 'forge.puppetlabs.com'
 
 
-#development environment modules
-mod 'puppetlabs/stldib', '4.2.2'
-mod 'puppetlabs/concat',  '1.1.0'
+#Forge modules
+
+mod 'puppetlabs/stldib'
+mod 'puppetlabs/concat'
 mod 'puppetlabs/nginx'
