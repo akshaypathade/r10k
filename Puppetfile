@@ -10,7 +10,7 @@ mod 'puppetlabs/nginx'
 
 
 mod 'apache',
- :git => 'https://gitub.com/puppetlabs-apache'
+ :git => 'https://github.com/puppetlabs-apache'
 
 mod 'profiles',
  :git => 'https://github.com/akshaypathade/profiles'
