@@ -1,0 +1,6 @@
+---
+inheritance::website::port: 9097
+inheritance::website::docroot: /var/www
+inheritance::website::servername: learning.puppetlabs.vm
+inheritance::website::docroot_owner: root
+inheritance::website::docroot_group: root
