@@ -9,11 +9,11 @@ mod 'puppetlabs/nginx'
 
 
 
-mod 'apache',
- :git => 'https://github.com/puppetlabs/puppetlabs-apache'
+#mod 'apache',
+# :git => 'https://github.com/puppetlabs/puppetlabs-apache'
 
-mod 'profiles',
- :git => 'https://github.com/akshaypathade/profiles'
+#mod 'profiles',
+# :git => 'https://github.com/akshaypathade/profiles'
 
-mod 'roles',
-  :git => 'https://github.com/akshaypathade/roles'
+#mod 'roles',
+#  :git => 'https://github.com/akshaypathade/roles'
