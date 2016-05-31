@@ -1,6 +1,6 @@
 ---
-profiles::website::port: 9096
-profiles::website::docroot: /var/www
-profiles::website::servername: localhost
-profiles::website::docroot_owner: root
-profiles::website::docroot_group: root
+profiles::apache::port: 9096
+profiles::apache::docroot: /var/www
+profiles::apache::servername: localhost
+profiles::apache::docroot_owner: root
+profiles::apache::docroot_group: root
